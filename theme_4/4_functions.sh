@@ -11,9 +11,5 @@ get_sum() {
 
 
 # Вызываем функции
-
-string="World"
-hello_prefix "$string"
-
 hello_prefix World
 get_sum 2 3
